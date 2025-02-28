@@ -116,8 +116,8 @@ button {
 .call {
     display: flex;
     justify-content: space-between;
-    padding: 36px;
-    margin: 80px 200px;
+    padding: 36px 100px;
+    margin: 80px 180px;
 }
 
 .action {
